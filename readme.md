@@ -4,11 +4,17 @@
 
 Les phénomènes étudiés en Machine Learning peuvent être considérés comme des systèmes qui, en fonction du contexte de leur environnement, présentent un comportement particulier en vue de certains événements.</h3>
 
+<div align="center">
+
 ## **Projets**
+
+</div>
+
 > ### **Apprentissage supervisé**
 1. [Prédire le score de dépences des clients](projects/spendingScore)
 2. [Prédition de la qualité du vin](projects/wineQuality)
-<!-- 3. [Prédiction du courrier iindésirable](projects/spam) <kbd>_Soon_</kbd> -->
+3. [Prédiction du courrier iindésirable](projects/spam)
+<!-- 4. [Prédiction immobilière à Melbourne](projects/melbourne) <kbd>_Soon_</kbd> -->
 
 <div align="center">
 
