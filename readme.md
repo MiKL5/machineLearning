@@ -15,6 +15,5 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 ## Domaines connexes
 [Business Intelligence](https://github.com/MiKL5/BI/)  
 [Data Science](https://github.com/MiKL5/DS)  
-[Machine Learning](https://github.com/MiKL5/machineLearning)  
 <!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
