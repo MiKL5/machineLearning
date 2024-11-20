@@ -15,7 +15,8 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 2. [Prédition de la qualité du vin](projects/wineQuality)
 3. [Prédiction du courrier iindésirable](projects/spam)
 4. [Prédiction immobilière à Melbourne](projects/melbourne)
-<!-- 5. [Prédiction du prix des maisson](projects/house) <kbd>_Soon_</kbd> -->
+5. [Prédiction du prix des maisson](projects/house)
+<!-- 6. [Prédiction du prix des maisson](projects/california) <kbd>_Soon_</kbd> -->
 
 <div align="center">
 
