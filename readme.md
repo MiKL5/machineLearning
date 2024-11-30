@@ -10,7 +10,7 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 
 </div>
 
-> ### **Apprentissage supervisé** <a href=""><img align="right" src="https://github.com/MiKL5/devAppli/raw/master/assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
+> ### **Apprentissage supervisé** <a href="#"><img align="right" src="https://github.com/MiKL5/devAppli/raw/master/assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
 1. [Prédire le score de dépences des clients](projects/spendingScore)
 2. [Prédition de la qualité du vin](projects/wineQuality)
 3. [Prédiction du courrier iindésirable](projects/spam)
