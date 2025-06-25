@@ -23,6 +23,6 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 
 <a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/atomicBi.png" height="18px" align="center">Business Intelligence</a>  
 <a href="https://github.com/MiKL5/DataScience/tree/master/machineLearning/"><img src="https://github.com/MiKL5/DataScience/blob/master/assets/atomicDs.png" height="18px" align="center">Data Science</a>  
-<a href="https://github.com/MiKL5/Artificial_Intelligence/"><img src="https://github.com/MiKL5/Artificial_Intelligence/blob/master/assets/images/ai1.png" height="18px" align="center">Intelligence artificielle</a>  
+<a href="https://github.com/MiKL5/Artificial_Intelligence/"><img src="https://github.com/MiKL5/Artificial_Intelligence/blob/master/assets/images/atomicAi.png" height="18px" align="center">Intelligence artificielle</a>  
 <!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
