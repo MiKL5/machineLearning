@@ -19,10 +19,10 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 <!-- 6. [Prédiction du prix des maisson](projects/california) <kbd>_Soon_</kbd> -->
 
 <div align="center">
+<h2> 🔗 Disciplines connexes</h2></div>
 
-## 🔗 Disciplines connexes
-<a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/atomicBi.png" height="14px" align="center">Business Intelligence</a>  
-<a href="https://github.com/MiKL5/DataScience/tree/master/machineLearning/"><img src="https://github.com/MiKL5/DataScience/blob/master/assets/atomicDs.png" height="14px" align="center">Data Science</a>  
-<a href="https://github.com/MiKL5/Artificial_Intelligence/"><img src="https://github.com/MiKL5/Artificial_Intelligence/blob/master/assets/images/atomicAI.png" height="14px" align="center">Intelligence artificielle</a>  
+<a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/atomicBi.png" height="18px" align="center">Business Intelligence</a>  
+<a href="https://github.com/MiKL5/DataScience/tree/master/machineLearning/"><img src="https://github.com/MiKL5/DataScience/blob/master/assets/atomicDs.png" height="18px" align="center">Data Science</a>  
+<a href="https://github.com/MiKL5/Artificial_Intelligence/"><img src="https://github.com/MiKL5/Artificial_Intelligence/blob/master/assets/images/ai1.png" height="18px" align="center">Intelligence artificielle</a>  
 <!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
