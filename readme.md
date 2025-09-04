@@ -10,13 +10,14 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 
 </div>
 
-<!-- > ### **Apprentissage supervisé** <a href="#"><img align="right" src="https://github.com/MiKL5/devAppli/raw/master/assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
-1. [Prédire le score de dépences des clients](projects/spendingScore)
-2. [Prédition de la qualité du vin](projects/wineQuality)
-3. [Prédiction du courrier iindésirable](projects/spam)
-4. [Prédiction immobilière à Melbourne](projects/melbourne)
-5. [Prédiction du prix des maisson](projects/house) -->
-<!-- 6. [Prédiction du prix des maisson](projects/california) <kbd>_Soon_</kbd> -->
+> ### **Apprentissage supervisé** <a href="#"><img align="right" src="https://github.com/MiKL5/devAppli/raw/master/assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>
+1. [Classificateur de fruit](projects/fruitClassifier)
+2. [Prédire le score de dépences des clients](projects/spendingScore)
+3. [Prédition de la qualité du vin](projects/wineQuality)
+4. [Prédiction du courrier iindésirable](projects/spam)
+5. [Prédiction immobilière à Melbourne](projects/melbourne)
+6. [Prédiction du prix des maisson](projects/house)
+<!-- 7. [Prédiction du prix des logements en Californie](projects/california) <kbd>_Soon_</kbd> -->
 > ### **Apprentissage semi-supervisé**
 1. [Recommandations Netflix](https://github.com/MiKL5/Python/blob/master/Anaconda/netflix/machineLearning/makeRecommendations)  
 2. [Analyse de similarité](https://github.com/MiKL5/Python/blob/master/Anaconda/netflix/machineLearning/similarity)
