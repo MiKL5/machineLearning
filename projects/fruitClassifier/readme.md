@@ -1,4 +1,4 @@
-# **🍊🍎 Classificateur de fruits avec un arbre de décision**<a href="../../../"><img align="right" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" alt="Python" height="64px"></a><a href="../../../"><img align="right" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" alt="Scikit-learn" height="64px"></a>
+# **🍊🍎 Classificateur de fruits avec un arbre de décision**<a href="../../"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="64px"></a>
 
 
 Ce projet utilise **Scikit-learn** pour créer un **classificateur simple** permettant d’identifier des fruits (oranges ou pommes) en fonction de leur **diamètre** et de leur **couleur**.
