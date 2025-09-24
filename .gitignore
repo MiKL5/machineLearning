@@ -27,3 +27,6 @@ projects/spam/mail_data.csv
 projects/melbourne/melbourne_data.csv
 projects/house/HousingPriceTest.csv
 projects/house/HousingPriceTrain.csv
+projects/netflix/makeRecommendations/._netflix.py
+projects/netflix/similarity/._netflix.py
+projects/netflix/similarity/._netflix.zip
