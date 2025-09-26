@@ -20,7 +20,7 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 <!-- 7. [Prédiction du prix des logements en Californie](projects/california) <kbd>_Soon_</kbd> -->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  
-<!-- 23. []() -->
+<!-- 2. []() -->
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
