@@ -17,7 +17,7 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 4. [Prédire le courrier iindésirable](projects/spam)
 5. [Prédiction immobilière à Melbourne](projects/melbourne)
 6. [Prédire le prix des maisson](projects/house)
-7. [Prédire le prix des logements en Californie](projects/california)
+7. [Prédire le prix des logements en Californie](projects/californianHousing)
 <!-- 8. [Prédire les malidies cardiaques](projects/heartDisease) -->
 <!-- 9. [Prédire la survie dans le Titanic](projects/titanic) -->
 <!-- 10. [Systèle de recommandation de films](projects/movies) -->
