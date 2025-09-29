@@ -10,17 +10,23 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 
 </div>
 
-> ### **Apprentissage supervisé** <!--<a href="#"><img align="right" src="https://github.com/MiKL5/devAppli/raw/master/assets/images/Jupyter.svg" alt="Jupyter notebook" height="64px"></a>-->
+> ### **Apprentissage supervisé**
 1. [Classificateur de fruit](projects/fruitClassifier)
 2. [Prédire le score de dépences des clients](projects/spendingScore)
-3. [Prédition de la qualité du vin](projects/wineQuality)
-4. [Prédiction du courrier iindésirable](projects/spam)
+3. [Prédire la qualité du vin](projects/wineQuality)
+4. [Prédire le courrier iindésirable](projects/spam)
 5. [Prédiction immobilière à Melbourne](projects/melbourne)
-6. [Prédiction du prix des maisson](projects/house)
-<!-- 7. [Prédiction du prix des logements en Californie](projects/california) <kbd>_Soon_</kbd> -->
+6. [Prédire le prix des maisson](projects/house)
+7. [Prédire le prix des logements en Californie](projects/california)
+<!-- 8. [Prédire les malidies cardiaques](projects/heartDisease) -->
+<!-- 9. [Prédire la survie dans le Titanic](projects/titanic) -->
+<!-- 10. [Systèle de recommandation de films](projects/movies) -->
+<!-- 11. [Prédire le diabète](projects/diabtes) -->
+<!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  
 <!-- 2. []() -->
+<!-- > ### **Apprentissage non supervisé** -->
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
