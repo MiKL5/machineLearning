@@ -11,15 +11,15 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 </div>
 
 > ### **Apprentissage supervisé**
-1. [Prédire le score de dépences des clients](projects/spendingScore)
+1. [Prédire le score de dépenses des clients](projects/spendingScore)
 2. [Prédire la qualité du vin](projects/wineQuality)
 3. [Prédire le courrier iindésirable](projects/spam)
 4. [Prédiction immobilière à Melbourne](projects/melbourne)
-5. [Prédire le prix des maisson](projects/house)
+5. [Prédire le prix des maisons](projects/house)
 6. [Prédire le prix des logements en Californie](projects/californianHousing)
 7. [Prédire les malidies cardiaques](projects/heartDisease)
 7. [Prédire la survie dans le Titanic](projects/titanic)
-9. [Systèle de recommandation de films](projects/movies)
+9. [Système de recommandation de films](projects/movies)
 <!-- 10. [Prédire le diabète](projects/diabtes) -->
 <!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
