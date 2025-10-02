@@ -1,4 +1,4 @@
-<h1 align="center"><b>Machine Learning</b> <a href="https://github.com/MiKL5/artificialIntelligence"><img src="./assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a></h1>
+<h1 align="center"><b>Machine Learning</b> <a href="https://github.com/MiKL5/artificialIntelligence"><img src="assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a></h1>
 
 <h3 align="center">Le Machine Learning (apprentissage automatique), est un domaine de l’intelligence artificielle pemettant aux machines d’apprendre et de faire des prédictions ou des décisions sans être explicitement programmés pour chaque tâche spécifique. Plutôt que de suivre une série d’instructions prédéfinies, ces modèles “apprennent” à partir de données et utilisent des algorithmes pour identifier des patterns et en tirer des conclusions.<br><br>
 
@@ -11,17 +11,16 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 </div>
 
 > ### **Apprentissage supervisé**
-1. [Classificateur de fruit](projects/fruitClassifier)
-2. [Prédire le score de dépences des clients](projects/spendingScore)
-3. [Prédire la qualité du vin](projects/wineQuality)
-4. [Prédire le courrier iindésirable](projects/spam)
-5. [Prédiction immobilière à Melbourne](projects/melbourne)
-6. [Prédire le prix des maisson](projects/house)
-7. [Prédire le prix des logements en Californie](projects/californianHousing)
-8. [Prédire les malidies cardiaques](projects/heartDisease)
-9. [Prédire la survie dans le Titanic](projects/titanic)
-<!-- 10. [Systèle de recommandation de films](projects/movies) -->
-<!-- 11. [Prédire le diabète](projects/diabtes) -->
+1. [Prédire le score de dépences des clients](projects/spendingScore)
+2. [Prédire la qualité du vin](projects/wineQuality)
+3. [Prédire le courrier iindésirable](projects/spam)
+4. [Prédiction immobilière à Melbourne](projects/melbourne)
+5. [Prédire le prix des maisson](projects/house)
+6. [Prédire le prix des logements en Californie](projects/californianHousing)
+7. [Prédire les malidies cardiaques](projects/heartDisease)
+7. [Prédire la survie dans le Titanic](projects/titanic)
+<!-- 9. [Systèle de recommandation de films](projects/movies) -->
+<!-- 10. [Prédire le diabète](projects/diabtes) -->
 <!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  
