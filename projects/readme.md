@@ -16,6 +16,6 @@
 <!-- 11. [Prédire le diabète](diabtes) -->
 <!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
-1. [Netflix](projects/netflix)  
+1. [Netflix](netflix)  
 <!-- 2. []() -->
 <!-- > ### **Apprentissage non supervisé** -->
