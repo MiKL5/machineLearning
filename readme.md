@@ -20,7 +20,8 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 7. [Prédire les malidies cardiaques](projects/heartDisease)
 7. [Prédire la survie dans le Titanic](projects/titanic)
 9. [Système de recommandation de films](projects/movies)
-<!-- 10. [Prédire le diabète](projects/diabtes) -->
+10. [Prédire le diabète](projects/diabtes)
+<!-- 11. [Prédire la maladie de Parkinson](projects/parkinson)  -->
 <!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  
