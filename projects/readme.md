@@ -13,8 +13,8 @@
 8. [Prédire les malidies cardiaques](heartDisease)
 9. [Prédire la survie dans le Titanic](titanic)
 10. [Systèle de recommandation de films](movies)
-11. [Prédire le diabète](diabtes)
-<!--12. [Prédire la maladie de Parkinson](parkinson)-->
+11. [Prédire le diabète](diabetes)
+12. [Prédire la maladie de Parkinson](parkinson)
 <!-- <kbd>_Soon_</kbd> -->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](netflix)  
