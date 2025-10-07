@@ -15,6 +15,8 @@
 10. [Systèle de recommandation de films](movies)
 11. [Prédire le diabète](diabetes)
 12. [Prédire la maladie de Parkinson](parkinson)
+13. [Le vaisseau spacial Titanic](spacecraft)
+<!-- 14. [Reconnaitre les chiffres manuscrits MNIST](mnist) -->
 <!-- <kbd>_Soon_</kbd> -->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](netflix)  
