@@ -1,4 +1,4 @@
-## **Projets**<a href="../"><img src="../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a></h1>
+## **Projets**<a href="../"><img src="../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a>
 
 </div>
 
@@ -15,8 +15,9 @@
 10. [Systèle de recommandation de films](movies)
 11. [Prédire le diabète](diabetes)
 12. [Prédire la maladie de Parkinson](parkinson)
-13. [Le vaisseau spacial Titanic](spacecraft)
-<!-- 14. [Reconnaitre les chiffres manuscrits MNIST](mnist) -->
+13. [Reconnaitre les chiffres manuscrits MNIST](mnist)
+14. [Le vaisseau spacial Titanic](spacecraft)
+15. [Prédire le prix de l'action Tesla](tesla)
 <!-- <kbd>_Soon_</kbd> -->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](netflix)  
