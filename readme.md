@@ -22,9 +22,10 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 9. [Système de recommandation de films](projects/movies)
 10. [Prédire le diabète](projects/diabetes)
 11. [Prédire la maladie de Parkinson](projects/parkinson)
-12. [Le vaisseau spacial Titanic](projects/spacecraft)
-13. [Prédire le prix de l'action Tesla](projects/tesla)
-<!-- 12. [Reconnaitre les chiffres manuscrits MNIST](projects/mnist) -->
+12. [Reconnaitre les chiffres manuscrits MNIST](projects/mnist)
+13. [Le vaisseau spacial Titanic](projects/spacecraft)
+14. [Prédire le prix de l'action Tesla](projects/tesla)
+15. [Prédire les performances des étudiants](projects/studentPerformance)
 <!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  

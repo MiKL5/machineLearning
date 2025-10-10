@@ -18,8 +18,9 @@
 13. [Reconnaitre les chiffres manuscrits MNIST](mnist)
 14. [Le vaisseau spacial Titanic](spacecraft)
 15. [Prédire le prix de l'action Tesla](tesla)
-<!-- <kbd>_Soon_</kbd> -->
+16. [Prédire les performances des étudiants](studentPerformance)
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](netflix)  
 <!-- 2. []() -->
 <!-- > ### **Apprentissage non supervisé** -->
+<!-- <kbd>_Soon_</kbd> -->
