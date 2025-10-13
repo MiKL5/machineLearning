@@ -22,5 +22,6 @@
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](netflix)  
 <!-- 2. []() -->
-<!-- > ### **Apprentissage non supervisé** -->
+> ### **Apprentissage non supervisé**
+1. [Regroupement des données d’iris](clusteringOnIrisData)
 <!-- <kbd>_Soon_</kbd> -->

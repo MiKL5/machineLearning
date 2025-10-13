@@ -30,7 +30,8 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  
 <!-- 2. []() -->
-<!-- > ### **Apprentissage non supervisé** -->
+> ### **Apprentissage non supervisé**
+1. [Regroupement des données d’iris](projects/clusteringOnIrisData)
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
