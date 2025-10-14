@@ -23,5 +23,6 @@
 1. [Netflix](netflix)  
 <!-- 2. []() -->
 > ### **Apprentissage non supervisé**
-1. [Regroupement des données d’iris](clusteringOnIrisData)
+1. [Segmentation des données d’iris](clusteringOnIrisData)
+2. [Segmentation de la clientèle d'un centre commercial](clusteringOfCustomersInAShoppingMall)
 <!-- <kbd>_Soon_</kbd> -->

@@ -31,7 +31,8 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 1. [Netflix](projects/netflix)  
 <!-- 2. []() -->
 > ### **Apprentissage non supervisé**
-1. [Regroupement des données d’iris](projects/clusteringOnIrisData)
+1. [Segmentation des données d’iris](projects/clusteringOnIrisData)
+2. [Segmentation de la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
