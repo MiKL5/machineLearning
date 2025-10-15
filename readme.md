@@ -33,6 +33,7 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 > ### **Apprentissage non supervisé**
 1. [Segmentation des données d’iris](projects/clusteringOnIrisData)
 2. [Segmentation de la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
+3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](projects/KMeans-DBSCAN-PCA)
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
