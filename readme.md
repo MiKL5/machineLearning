@@ -34,6 +34,8 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 1. [Segmentation des données d’iris](projects/clusteringOnIrisData)
 2. [Segmentation de la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
 3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](projects/KMeans-DBSCAN-PCA)
+4. [Algorithme Apriori](projects/aprioriAlgorithmForShoppingBasketAnalysis)
+5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
