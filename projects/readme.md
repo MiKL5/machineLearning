@@ -28,4 +28,5 @@
 3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](KMeans-DBSCAN-PCA)
 4. [Algorithme Apriori](AI4PredictingHousePrices)
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](LDAmodeling)
+6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
 <!-- <kbd>_Soon_</kbd> -->

@@ -36,6 +36,8 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](projects/KMeans-DBSCAN-PCA)
 4. [Algorithme Apriori](projects/aprioriAlgorithmForShoppingBasketAnalysis)
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
+6. [Réduire la dimensionnalité par t-SNE et UMAP](projects/tSneUmap)
+
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
 
