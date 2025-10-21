@@ -37,6 +37,7 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 4. [Algorithme Apriori](projects/aprioriAlgorithmForShoppingBasketAnalysis)
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
 6. [Réduire la dimensionnalité par t-SNE et UMAP](projects/tSneUmap)
+7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
 
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
