@@ -213,3 +213,4 @@ projects/LDAmodeling/ldaModeling.py
 projects/._aprioriAlgorithmForShoppingBasketAnalysis
 projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor/anomalydetectionIsolationForestLocalOutlierFactor.py
 projects/tSneUmap/tSneUmap.py
+projects/estimateTheDensityOfTheCore/estimateTheDensityOfTheCore.py

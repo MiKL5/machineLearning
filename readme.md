@@ -38,6 +38,7 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
 6. [Réduire la dimensionnalité par t-SNE et UMAP](projects/tSneUmap)
 7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
+8. [Estimer de la densité de noyau (KDE)](projects/estimateTheDensityOfTheCore)
 
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>

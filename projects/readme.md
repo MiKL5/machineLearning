@@ -30,4 +30,5 @@
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](LDAmodeling)
 6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
 7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
+8. [Estimer de la densité de noyau (KDE)](estimateTheDensityOfTheCore)
 <!-- <kbd>_Soon_</kbd> -->
