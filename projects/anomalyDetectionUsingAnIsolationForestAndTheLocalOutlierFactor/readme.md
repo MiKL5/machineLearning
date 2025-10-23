@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-AnomalyDetection-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Arr_processing-013243?logo=numpy)
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+<!-- ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) -->
 
 </div><hr>
 

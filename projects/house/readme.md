@@ -5,7 +5,7 @@ Random Forest et Arbre de Décision</b></h1>
 ![Python](https://img.shields.io/badge/python-3.13-blue?style=flat&logo=python&logoColor=ffd43b)
 ![Pandas](https://img.shields.io/badge/pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine_Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+<!-- ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) -->
 
 </div>
 
