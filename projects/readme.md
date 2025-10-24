@@ -31,4 +31,6 @@
 6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
 7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
 8. [Estimer de la densité de noyau (KDE)](estimateTheDensityOfTheCore)
+9. [Segmentater par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
+
 <!-- <kbd>_Soon_</kbd> -->

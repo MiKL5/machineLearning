@@ -11,10 +11,10 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 </div>
 
 > ### **Apprentissage supervisé**
-1. [Prédire le score de dépenses des clients](projects/spendingScore)
-2. [Prédire la qualité du vin](projects/wineQuality)
+1. [Prédire le score de dépenses](projects/spendingScore)
+2. [Prédire la qualité](projects/wineQuality)
 3. [Prédire le courrier iindésirable](projects/spam)
-4. [Prédiction immobilière à Melbourne](projects/melbourne)
+4. [Prédire l'immobiliere à Melbourne](projects/melbourne)
 5. [Prédire le prix des maisons](projects/house)
 6. [Prédire le prix des logements en Californie](projects/californianHousing)
 7. [Prédire les malidies cardiaques](projects/heartDisease)
@@ -31,14 +31,15 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 1. [Netflix](projects/netflix)  
 <!-- 2. []() -->
 > ### **Apprentissage non supervisé**
-1. [Segmentation des données d’iris](projects/clusteringOnIrisData)
-2. [Segmentation de la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
+1. [Segmenter les données d’iris](projects/clusteringOnIrisData)
+2. [Segmenter de la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
 3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](projects/KMeans-DBSCAN-PCA)
 4. [Algorithme Apriori](projects/aprioriAlgorithmForShoppingBasketAnalysis)
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
 6. [Réduire la dimensionnalité par t-SNE et UMAP](projects/tSneUmap)
 7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
 8. [Estimer de la densité de noyau (KDE)](projects/estimateTheDensityOfTheCore)
+9. [Segmentater par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
 
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
