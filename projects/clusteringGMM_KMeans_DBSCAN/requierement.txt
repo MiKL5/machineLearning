@@ -1,0 +1,29 @@
+# Core scientific libraries
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13
+
+# Machine Learning & Data Mining
+scikit-learn>=1.5
+mlxtend>=0.23      # Pour Apriori et association rules
+joblib>=1.4        # Sauvegarde de modèles ML
+
+# Visualization
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.23
+
+# Dimensionality Reduction / Clustering
+umap-learn>=0.5    # Pour UMAP
+scikit-misc>=0.1   # Optionnel : méthodes complémentaires
+# (t-SNE et PCA sont inclus dans scikit-learn)
+
+# Web app / Front-end ML
+streamlit>=1.38
+
+# Utility
+openpyxl>=3.1      # Lecture/écriture de .xlsx
+requests>=2.32     # Requêtes HTTP optionnelles
+
+# System / Environment
+python-dotenv>=1.0
