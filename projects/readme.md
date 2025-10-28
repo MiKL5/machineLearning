@@ -23,14 +23,16 @@
 1. [Netflix](netflix)  
 <!-- 2. []() -->
 > ### **Apprentissage non supervisé**
-1. [Segmentation des données d’iris](clusteringOnIrisData)
-2. [Segmentation de la clientèle d'un centre commercial](clusteringOfCustomersInAShoppingMall)
+1. [Partitionner les données d’iris](clusteringOnIrisData)
+2. [Partitionner la clientèle d'un centre commercial](clusteringOfCustomersInAShoppingMall)
 3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](KMeans-DBSCAN-PCA)
 4. [Algorithme Apriori](AI4PredictingHousePrices)
 5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](LDAmodeling)
 6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
 7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
 8. [Estimer de la densité de noyau (KDE)](estimateTheDensityOfTheCore)
-9. [Segmentater par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
+9. [Partitionner par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
+10. [Détecter les anomalies avec OneClassSVM](projects/detectingQnomaliesYithOneClassSVM)
+11. [Partitionner avec GMM, KMeans & DBSCAN](projects/clusteringGMM_KMeans_DBSCAN)
 
 <!-- <kbd>_Soon_</kbd> -->

@@ -31,15 +31,17 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 1. [Netflix](projects/netflix)  
 <!-- 2. []() -->
 > ### **Apprentissage non supervisé**
-1. [Segmenter les données d’iris](projects/clusteringOnIrisData)
-2. [Segmenter de la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
-3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](projects/KMeans-DBSCAN-PCA)
-4. [Algorithme Apriori](projects/aprioriAlgorithmForShoppingBasketAnalysis)
-5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
-6. [Réduire la dimensionnalité par t-SNE et UMAP](projects/tSneUmap)
-7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
-8. [Estimer de la densité de noyau (KDE)](projects/estimateTheDensityOfTheCore)
-9. [Segmentater par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
+1. [Partitionner les données d’iris](clusteringOnIrisData)
+2. [Partitionner la clientèle d'un centre commercial](clusteringOfCustomersInAShoppingMall)
+3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](KMeans-DBSCAN-PCA)
+4. [Algorithme Apriori](AI4PredictingHousePrices)
+5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](LDAmodeling)
+6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
+7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
+8. [Estimer de la densité de noyau (KDE)](estimateTheDensityOfTheCore)
+9. [Partitionner par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
+10. [Détecter les anomalies avec OneClassSVM](projects/detectingQnomaliesYithOneClassSVM)
+<!-- 11. [Partitionner avec GMM, KMeans & DBSCAN](projects/clusteringGMM_KMeans_DBSCAN) -->
 
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
