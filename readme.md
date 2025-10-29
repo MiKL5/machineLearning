@@ -1,14 +1,8 @@
 <h1 align="center"><b>Machine Learning</b> <a href="https://github.com/MiKL5/artificialIntelligence"><img src="assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a></h1>
 
-<h3 align="center">Le Machine Learning (apprentissage automatique), est un domaine de l’intelligence artificielle pemettant aux machines d’apprendre et de faire des prédictions ou des décisions sans être explicitement programmés pour chaque tâche spécifique. Plutôt que de suivre une série d’instructions prédéfinies, ces modèles “apprennent” à partir de données et utilisent des algorithmes pour identifier des patterns et en tirer des conclusions.<br><br>
-
-Les phénomènes étudiés en Machine Learning peuvent être considérés comme des systèmes qui, en fonction du contexte de leur environnement, présentent un comportement particulier en vue de certains événements.</h3>
-
-<div align="center">
-
-## **Projets**
-
-</div>
+<h3 align="center">Le Machine Learning, est un domaine de l’intelligence artificielle pemettant aux machines d’apprendre et de faire des prédictions ou des décisions sans être explicitement programmés pour chaque tâche spécifique. Plutôt que de suivre une série d’instructions prédéfinies, ces modèles “apprennent” à partir de données et utilisent des algorithmes pour identifier des patterns et en tirer des conclusions.<br><br>
+Les phénomènes étudiés peuvent être considérés comme des systèmes qui, en fonction du contexte de leur environnement, présentent un comportement particulier en vue de certains événements.</h3>
+<div align="center"><h2><b>Projets</b></h2></div>
 
 > ### **Apprentissage supervisé**
 1. [Prédire le score de dépenses](projects/spendingScore)
@@ -31,17 +25,18 @@ Les phénomènes étudiés en Machine Learning peuvent être considérés comme 
 1. [Netflix](projects/netflix)  
 <!-- 2. []() -->
 > ### **Apprentissage non supervisé**
-1. [Partitionner les données d’iris](clusteringOnIrisData)
-2. [Partitionner la clientèle d'un centre commercial](clusteringOfCustomersInAShoppingMall)
-3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](KMeans-DBSCAN-PCA)
-4. [Algorithme Apriori](AI4PredictingHousePrices)
-5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](LDAmodeling)
-6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
-7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
-8. [Estimer de la densité de noyau (KDE)](estimateTheDensityOfTheCore)
+1. [Partitionner les données d’iris](projects/clusteringOnIrisData)
+2. [Partitionner la clientèle d'un centre commercial](projects/clusteringOfCustomersInAShoppingMall)
+3. [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](projects/KMeans-DBSCAN-PCA)
+4. [Algorithme Apriori](projects/AI4PredictingHousePrices)
+5. [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](projects/LDAmodeling)
+6. [Réduire la dimensionnalité par t-SNE et UMAP](projects/tSneUmap)
+7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
+8. [Estimer de la densité de noyau (KDE)](projects/estimateTheDensityOfTheCore)
 9. [Partitionner par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
 10. [Détecter les anomalies avec OneClassSVM](projects/detectingQnomaliesYithOneClassSVM)
-<!-- 11. [Partitionner avec GMM, KMeans & DBSCAN](projects/clusteringGMM_KMeans_DBSCAN) -->
+11. [Partitionner avec GMM, KMeans & DBSCAN](projects/clusteringGMM_KMeans_DBSCAN)
+<!-- 12. [Associer des règles d’apprentissage avec FP-Growth](projects/fpGrowth) -->
 
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>

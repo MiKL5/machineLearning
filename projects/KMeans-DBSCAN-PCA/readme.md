@@ -5,12 +5,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Clustering%20%26%20PCA-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-Statistical_Plots-556F9F?style=flat&logo=python&logoColor=white) 
-![OpenML](https://img.shields.io/badge/OpenML-Dataset_Integration-000000?style=flat) 
-<!-- ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) -->
+![OpenML](https://img.shields.io/badge/OpenML-Dataset_Integration-000000?style=flat)
 
 </div><hr>
 
-## **Le projet**
 Ce projet combine plusieurs techniques d’**apprentissage non supervisé** – **KMeans**, **DBSCAN**, et **PCA** – pour explorer et visualiser la structure interne de jeux de données classiques en data science (Iris & MNIST).  
 L’objectif est de segmenter, analyser et réduire la dimensionnalité des données pour interpréter les regroupements visuels.
 ---
@@ -46,12 +44,9 @@ L’objectif est de segmenter, analyser et réduire la dimensionnalité des donn
 * **KMeans** : reproduction efficace de la structure observée sur Iris (3 clusters cohérents).  
 * **DBSCAN** : détection des zones de haute densité — plus sélectif que KMeans, utile sur données bruitées.  
 * **PCA sur MNIST** : réduction globale à 2D maintenant la variabilité principale, observation claire de certains regroupements numériques.
-<!-- ## **Licence**
-Ce projet est publié sous licence **MIT**.  
-Vous pouvez le réutiliser, le modifier et le redistribuer librement en citant la source. -->
 ___
 ## **Notes**
-- Approche entièrement **non supervisée** (aucune variable cible utilisée pour apprentissage).  
-- KMeans = segmentation « globale », DBSCAN = segmentation « locale ».  
-- PCA = réduction de dimension pour interprétation humaine.  
-- Idéal pour la démonstration de clustering hybride et visualisation multi-datasets.
+* Approche entièrement **non supervisée** (aucune variable cible utilisée pour apprentissage).  
+* KMeans = segmentation « globale », DBSCAN = segmentation « locale ».  
+* PCA = réduction de dimension pour interprétation humaine.  
+* Idéal pour la démonstration de clustering hybride et visualisation multi-datasets.

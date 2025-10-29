@@ -1,7 +1,4 @@
 ## **Projets**<a href="../"><img src="../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a>
-
-</div>
-
 > ### **Apprentissage supervisé**
 1. [Classificateur de fruit](fruitClassifier)
 2. [Prédire le score de dépences des clients](spendingScore)
@@ -20,8 +17,7 @@
 15. [Prédire le prix de l'action Tesla](tesla)
 16. [Prédire les performances des étudiants](studentPerformance)
 > ### **Apprentissage semi-supervisé**
-1. [Netflix](netflix)  
-<!-- 2. []() -->
+1. [Netflix](netflix)
 > ### **Apprentissage non supervisé**
 1. [Partitionner les données d’iris](clusteringOnIrisData)
 2. [Partitionner la clientèle d'un centre commercial](clusteringOfCustomersInAShoppingMall)
@@ -31,8 +27,8 @@
 6. [Réduire la dimensionnalité par t-SNE et UMAP](tSneUmap)
 7. [Détection d'anomalies 👉 Isolation Forest & Local Outlier Factor (LOF)](anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)
 8. [Estimer de la densité de noyau (KDE)](estimateTheDensityOfTheCore)
-9. [Partitionner par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
-10. [Détecter les anomalies avec OneClassSVM](projects/detectingQnomaliesYithOneClassSVM)
-11. [Partitionner avec GMM, KMeans & DBSCAN](projects/clusteringGMM_KMeans_DBSCAN)
-
+9. [Partitionner par le clustering hiérarchique](segmentingCustomersUsingHierarchicalClustering)
+10. [Détecter les anomalies avec OneClassSVM](detectingQnomaliesYithOneClassSVM)
+11. [Partitionner avec GMM, KMeans & DBSCAN](clusteringGMM_KMeans_DBSCAN)
+<!-- 12. [Associer des règles d’apprentissage avec FP-Growth](fpGrowth) -->
 <!-- <kbd>_Soon_</kbd> -->

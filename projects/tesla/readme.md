@@ -5,8 +5,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-Statistical_Visualization-556F9F?style=flat&logo=python&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-<!-- ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) -->
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML_Framework-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 </div><hr>
 
@@ -34,17 +33,13 @@ Une démarche professionnelle combinant data engineering, visualisation avancée
   * Forêt Aléatoire (`RandomForestRegressor`)
   * Support Vector Regressor (`SVR`)
 * Évaluation comparée sur la base du **Mean Absolute Error (MAE)**
-___
 ## **Résultats attendus et Enhancements**
 * Comparaison systématique des performances pour un choix objectif du meilleur modèle de prédiction (MAE)
 * Visualisation claire du comportement et de la tendance des prix
 * **Améliorations possibles :**
     * Intégration d’indicateurs techniques (RSI, MACD, etc.)
     * Gestion automatisée de la mise à jour des données depuis une API
-<!-- ___
-## Licence
-Code sous licence MIT : réutilisation, modification et diffusion libres avec attribution. -->
 ___
 ### **Remarques**
-- Pour toute utilisation en production ou backtesting réel, valider la qualité des fichiers de données sources et la stabilité du pipeline.
-- Crédits : projet à visée pédagogique (Master Big Data/IA).
+* Pour toute utilisation en production ou backtesting réel, valider la qualité des fichiers de données sources et la stabilité du pipeline.
+* Crédits : projet à visée pédagogique (Master Big Data/IA).
