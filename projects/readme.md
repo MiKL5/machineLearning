@@ -30,5 +30,7 @@
 9. [Partitionner par le clustering hiérarchique](segmentingCustomersUsingHierarchicalClustering)
 10. [Détecter les anomalies avec OneClassSVM](detectingQnomaliesYithOneClassSVM)
 11. [Partitionner avec GMM, KMeans & DBSCAN](clusteringGMM_KMeans_DBSCAN)
-<!-- 12. [Associer des règles d’apprentissage avec FP-Growth](fpGrowth) -->
+12. [Associer des règles d’apprentissage avec FP-Growth](fpGrowth)
+13. [Partitionnement par un mélange bayésien gaussien](clusteringUsingABayesianGaussianMixtureModel)
+<!-- 14. [Réduire la dimensionnalité par LDA et de SVD](dimensionReductionUsingLDA-SVD) -->
 <!-- <kbd>_Soon_</kbd> -->

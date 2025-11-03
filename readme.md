@@ -36,7 +36,9 @@ Les phénomènes étudiés peuvent être considérés comme des systèmes qui, e
 9. [Partitionner par le clustering hiérarchique](projects/segmentingCustomersUsingHierarchicalClustering)
 10. [Détecter les anomalies avec OneClassSVM](projects/detectingQnomaliesYithOneClassSVM)
 11. [Partitionner avec GMM, KMeans & DBSCAN](projects/clusteringGMM_KMeans_DBSCAN)
-<!-- 12. [Associer des règles d’apprentissage avec FP-Growth](projects/fpGrowth) -->
+12. [Associer des règles d’apprentissage avec FP-Growth](projects/fpGrowth)
+13. [Partitionnement par un mélange bayésien gaussien](projects/clusteringUsingABayesianGaussianMixtureModel)
+<!-- 14. [Réduire la dimensionnalité par LDA et de SVD](projects/dimensionReductionUsingLDA-SVD) -->
 
 <div align="center">
 <h2> 🔗 Disciplines connexes</h2></div>
