@@ -7,7 +7,6 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-Statistical_Visualization-556F9F?style=flat&logo=python&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/plotly-Interactive_Visualizations-FF69B4?style=flat&logo=plotly&logoColor=white) 
-<!-- ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) -->
 
 </div><hr>
 
@@ -41,8 +40,6 @@ Pas d’étiquettes utilisées pour entraîner les modèles, conformément à l�
 * `DBSCAN` permet d’identifier des groupes selon la densité locale des points, intéressant pour détacher des outliers.
 * Les clustering hiérarchique propose une vision différente de la structure de regroupement des données.
 * Des visualisations riches et interactives facilitent l’interprétation des clusters.
-<!-- ## Licence
-Projet sous licence MIT - voir le fichier [LICENSE](LICENSE). -->
 ___
 ## **Note<!--s-->**
 * L'approche 100 % non supervisée, sans utilisation de labels pour apprentissage.
