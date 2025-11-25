@@ -41,8 +41,7 @@ Les phénomènes étudiés peuvent être considérés comme des systèmes qui, e
 14. [Partitionnement par un mélange bayésien gaussien](projects/clusteringUsingABayesianGaussianMixtureModel)
 15. [Réduire la dimensionnalité par LDA et de SVD](projects/dimensionReductionUsingLDA-SVD)
 
-<div align="center">
-<h2> 🔗 Disciplines connexes</h2></div>
+<hr><div align="center"><h2> 🔗 Disciplines connexes</h2></div>
 
 <a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/atomicBi.png" height="18px" align="center">Business Intelligence</a>  
 <a href="https://github.com/MiKL5/DataScience/tree/master/machineLearning/"><img src="https://github.com/MiKL5/DataScience/blob/master/assets/atomicDs.png" height="18px" align="center">Data Science</a>  
