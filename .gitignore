@@ -223,3 +223,16 @@ projects/detectingQnomaliesYithOneClassSVM/detectingAnomaliesWithOneClassSVM.py
 projects/detectingQnomaliesYithOneClassSVM/Student_Performance.csv
 projects/clusteringGMM_KMeans_DBSCAN/clustering_GMM_KMeans_DBSCAN.py
 projects/clusteringGMM_KMeans_DBSCAN/._requierement.txt
+projects/gdprComplianceAudit/._main.py
+projects/spendingScore/._spendingScore.py
+projects/spendingScore/spendingScore.py
+projects/._fpGrowth
+projects/fpGrowth/._algorithmFrequentPatternGrowth.py
+projects/AI4PredictingHousePrices/readme.md
+projects/AI4PredictingHousePrices/requirements.txt
+projects/californianHousing/app.py
+projects/readme.md
+projects/clusteringUsingABayesianGaussianMixtureModel/._BayesianGaussianMixtureModel.py
+projects/clusteringUsingABayesianGaussianMixtureModel/BayesianGaussianMixtureModel.py
+projects/dimensionReductionUsingLDA-SVD/._LDA-SVD.py
+projects/dimensionReductionUsingLDA-SVD/LDA-SVD.py
