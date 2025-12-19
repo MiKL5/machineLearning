@@ -41,6 +41,10 @@ Les phénomènes étudiés peuvent être considérés comme des systèmes qui, e
 14. [Partitionnement par un mélange bayésien gaussien](projects/clusteringUsingABayesianGaussianMixtureModel)
 15. [Réduire la dimensionnalité par LDA et de SVD](projects/dimensionReductionUsingLDA-SVD)
 
+<hr><div align="center"><h2> 🔗 Projets connexes</h2></div>
+
+[Audit RGPD d'une IA de prédiction du prix des maisons](https://github.com/MiKL5/GDPR-audit-of-AI)
+
 <hr><div align="center"><h2> 🔗 Disciplines connexes</h2></div>
 
 <a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/master/assets/atomicBi.png" height="18px" align="center">Business Intelligence</a>  
