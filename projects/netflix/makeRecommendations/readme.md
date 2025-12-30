@@ -1,4 +1,4 @@
-# Système de recommandation de Films <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix<!-- (Machine Learning)--><a href="../"><img align="right" src="https://github.com/MiKL5/Python/blob/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# Machine Learning avec <a href="#"><img align="center" src="../../../assets/netflix.png" alt="netflix" height="36px"></a>etflix<a href="../../../"><img align="right" src="https://github.com/MiKL5/Python/blob/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 ## 📌 Contexte
 > Ce projet illustre la mise en place d’un **système de recommandation basé sur le contenu** en utilisant la similarité cosinus et la vectorisation **TF-IDF (Term Frequency – Inverse Document Frequency)**.  
 Il exploite un dataset de films/séries (titres, genres, pays) afin de proposer aux utilisateurs des recommandations personnalisées.
